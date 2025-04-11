@@ -11,8 +11,8 @@ export default function Home (){
         }}
         resizeMode='contain'
         />
-        <Text style={style.title}>Organização de Serviços Socias 2G!!!</Text>
-        <Text>Ajudar faz bem!!!</Text>
+        <Text style={style.title}>Organização de Serviços Socias 2G!</Text>
+        <Text>Ajudar faz bem!</Text>
   
   
       </View>
